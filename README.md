@@ -37,3 +37,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-★★★★☆-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-★★★☆☆-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Go-★☆☆☆☆-3766AB?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp </p> &nbsp 
+
+
+
+<h3 align="center"><b>🏸 About Me!</b></h3>  
+</br>
+<p align="center">
+[Click!](https://www.notion.so/Kyum-3cba77e4e7f64ee79a80adf798618844)
+</p>
